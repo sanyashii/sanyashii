@@ -1,4 +1,4 @@
-# Hi, I'm [Name] 👋
+# Hi, I'm Sanyashi 👋
 
 🚀 Web3 Developer | Lead Crypto Trader | Market Analyst  
 📍 Building tools & sharing alpha in the blockchain space.  
