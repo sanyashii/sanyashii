@@ -13,8 +13,8 @@
 - [NFT Minting DApp](https://github.com/YourName/NFTMint) – Mint NFTs directly from your browser.
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername)](https://git.io/streak-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanyashii&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanyashii)](https://git.io/streak-stats)
 
 ## 📫 Connect With Me
 [Twitter](https://twitter.com/sanyashi_btc) | LinkedIn | [Email](degr8harsh@gmail.com)
